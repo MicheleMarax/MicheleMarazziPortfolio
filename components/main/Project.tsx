@@ -39,7 +39,7 @@ const Projects = () => {
         <ProjectCard
           src="/PortfolioSite.png"
           title="My portfolio site"
-          description="Nothing to say it's this website :D"
+          description="My portfolio website, developed in visual code to learn react js."
         />     
         
       <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61] flex-[1] z-[21] opacity-0">

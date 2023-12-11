@@ -42,7 +42,7 @@ const HomeContent = () => {
         <motion.p
         variants={slideInFromLeft(0.8)}
         className='text-lg text-gray-400 my-5 max-w-[600px]'>
-            Hi, i'm a software engineer with experience in game development using Unity 3D and Mobile.
+            Hi, i am a software engineer with experience in game development using Unity 3D and Mobile.
             Check out my projects and skills.
         </motion.p>
         <motion.a

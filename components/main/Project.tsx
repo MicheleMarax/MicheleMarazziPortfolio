@@ -13,7 +13,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10 pb-100">
         <ProjectCard
-          src="/static/MeshGenerator.png"
+          src="/MeshGenerator.png"
           title="Procedural mesh generation in Unity"
           description="This bachelor thesis project explores procedural mesh generation in Unity using C#.
           The focus is on implementing advanced algorithms for dynamic 3D mesh creation to enhance visual appeal and gameplay experiences in video games.
@@ -21,14 +21,14 @@ const Projects = () => {
           The goal is to showcase practical applications and demonstrate the impact of procedural techniques on game development and interactive applications."
         />        
        <ProjectCard
-          src="/static/SaveThePlanet.png"
+          src="/SaveThePlanet.png"
           title="Project save the planet"
           description="This software engineering test project involves developing an Android game in Unity, focusing on implementing SOLID principles.
           The game showcases single responsibility, open/closed, Liskov substitution, interface segregation, and dependency inversion principles for a robust and maintainable codebase. 
           Through this project, the student demonstrates proficiency in Unity, Android game development, and mastery of SOLID principles in software engineering."
         />    
         <ProjectCard
-          src="/static/CryptoWallet.png"
+          src="/CryptoWallet.png"
           title="Crypto wallet tracker"
           description="For a university test, this Android app, developed in Java using Android Studio, functions as a Crypto Wallet tracker. 
           It fetches real-time cryptocurrency values from a third-party server via REST API. 

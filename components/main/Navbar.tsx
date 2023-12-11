@@ -35,7 +35,7 @@ const Navbar = () => {
            href="https://www.linkedin.com/in/michele-marazzi-9bbb4329b/"
           >
             <Image
-            src="/static/linkedin.svg"
+            src="/linkedin.svg"
             alt="linkedin"
             width={24}
             height={24}/>
@@ -46,7 +46,7 @@ const Navbar = () => {
            href="https://github.com/MicheleMarax?tab=overview&from=2023-12-01&to=2023-12-11"
           >
             <Image
-            src="/static/github.svg"
+            src="/github.svg"
             alt="gitHub"
             width={24}
             height={24}/>

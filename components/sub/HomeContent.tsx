@@ -57,7 +57,7 @@ const HomeContent = () => {
         variants={slideInFromRight(0.8)}
         className='w-full h-full flex justify-center items-center'>
             <Image
-            src="/mainIconsDark.svg"
+            src="\mainIconsdark.svg"
             alt="icon"
             height={650}
             width={650}>

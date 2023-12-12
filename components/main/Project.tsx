@@ -37,7 +37,7 @@ const Projects = () => {
       </div>
       <div className="h-[300] w-[300] flex flex-col md:flex-row gap-10 px-10 py-10">
         <ProjectCard
-          src="/static/PortfolioSite.png"
+          src="/PortfolioSite.png"
           title="My portfolio site"
           description="My portfolio website, developed in visual code to learn react js."
         />     

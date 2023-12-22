@@ -21,7 +21,10 @@ const ProjectCard = ({ src, title, description, tags }: Props) => {
 
       <div className="w-full flex flex-row items-center">
         {tags.map((tag) => (
-          <div className="Tag-box py-[5px] px-[10px] border border-[#7042f88b] opacity-[0.9] ">
+          <div
+            key={tag}
+            className="Tag-box py-[5px] px-[10px] border border-[#7042f88b] opacity-[0.9] "
+          >
             <h1 className="welcome-text text-[13px] text-[#b49bff]">{tag}</h1>
           </div>
         ))}
